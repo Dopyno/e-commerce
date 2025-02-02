@@ -40,3 +40,4 @@ function renderCart() {
 
   document.getElementById("cart-total").textContent = total.toFixed(2);
 }
+console.log();
